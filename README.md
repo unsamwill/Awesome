@@ -4,9 +4,9 @@
 
 > An awesome & curated list of best applications and tools for Windows.
 
-> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
+> \*.
 
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
@@ -15,7 +15,6 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 > Windows上优质&精选的最佳应用程序及工具列表。
 
